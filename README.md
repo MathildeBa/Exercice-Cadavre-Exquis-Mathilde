@@ -3,6 +3,11 @@
 Il etait une fois quatres futures Developper qui s'entrainaient à coder. 
 Pour bien s'entrainer rien de tel qu'un cadavre exquis !
 c'est pas si compliqué finalement... regardez,
- cela fait seulement 6 heures que nous sommes occupé à integrer 3 misérables lignes
+
+cela fait seulement 6 heures que nous sommes occupé à integrer 3 misérables lignes
 dans le readme de chacun et la galère n'est toujours pas finie.
 attendez de voir la suite...
+
+Moi younes, j'ai enfin réussi à intégré ces inssuportable lignes dans
+chacun des repo ! Cette victoire me donne envie d'aider mes associés 
+à accomplir la fin de cette mission, courage à vous !
