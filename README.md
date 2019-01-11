@@ -6,3 +6,4 @@ c'est pas si compliqué finalement... regardez,
  cela fait seulement 6 heures que nous sommes occupé à integrer 3 misérables lignes
 dans le readme de chacun et la galère n'est toujours pas finie.
 attendez de voir la suite...
+ok
